@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 160">
+  <!-- T crossbar: right edge at x=70, where / top-left starts -->
+  <rect x="4" y="14" width="66" height="24" fill="white"/>
+  <!-- T stem: right edge at x=58, where / bottom-left ends -->
+  <rect x="26" y="38" width="32" height="108" fill="white"/>
+  <!-- / slash: top-left(70,8) meets crossbar right; bottom-left(58,152) meets stem right -->
+  <polygon points="70,8 106,8 94,152 58,152" fill="#C6F135"/>
+</svg>
